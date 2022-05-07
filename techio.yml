@@ -1,6 +1,6 @@
 title: Genetic Algorithm for Search Race
 plan:
-- title: Welcome
+- title: Introduction
   statement: markdowns/welcome.md
 - title: Welcome2
   statement: markdowns/welcome2.md
