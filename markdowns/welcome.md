@@ -1,6 +1,8 @@
-# Welcome!
+# Introduction
 
-This Basic template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+This article will be about using genetic algorithm for [Search Race](https://www.codingame.com/multiplayer/optimization/search-race) optimization game. It's not a tutorial for a complete beginner on genetic algorithms. For that I refer to [tutorial](https://tech.io/playgrounds/334/genetic-algorithms/history) and [GA for mars lander](https://www.codingame.com/blog/genetic-algorithm-mars-lander/).
+
+
 
 
 Please refer to the [documentation](https://tech.io/doc) to learn more about adding programming exercises within your contribution.
